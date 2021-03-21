@@ -8,7 +8,6 @@ const configFiles = {};
 const configFolderPath = path.resolve(__dirname, 'configs');
 
 (async function () {
-  // choose config
   const { choice } = await inquirer.prompt([
     {
       type: 'list',
