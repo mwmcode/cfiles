@@ -1,5 +1,5 @@
 {
-  "name": "@mcha/tsconfig",
+  "name": "@mcha/cfiles",
   "version": "1.0.1",
   "description": "tsconfig.json ",
   "main": "src/index.js",
@@ -8,6 +8,12 @@
     "start": "node src/index.js"
   },
   "author": "Mcha",
+  "keywords": [
+    "config",
+    "tsconfig.json",
+    ".eslintrc.js",
+    ".prettiers"
+  ],
   "license": "MIT",
   "dependencies": {
     "inquirer": "^8.0.0"
