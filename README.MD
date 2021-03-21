@@ -1,5 +1,5 @@
 # TS Config
-Helper to quickly create `tsconfig.json` files
+Helper to quickly create some util config files
 
 ```sh
 npx @mcha/cfiles
