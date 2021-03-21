@@ -1,0 +1,23 @@
+{
+  "name": "@mcha/tsconfig",
+  "version": "1.0.1",
+  "description": "tsconfig.json ",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Mcha",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcha-dev/tsconfig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mcha-dev/tsconfig/issues"
+  },
+  "homepage": "https://github.com/mcha-dev/tsconfig#readme"
+}
