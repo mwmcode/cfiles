@@ -1,4 +1,4 @@
-# TS Config
+# JS util dot files
 Helper to quickly create some util config files
 
 ```sh
